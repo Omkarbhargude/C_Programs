@@ -1,21 +1,15 @@
 # C Programming Practice Repository
 
-This repository contains structured C programs organized into topic-wise folders. Each folder contains multiple `.c` files focused on specific concepts of the C language, making it easy for learners and developers to explore, practice, and reference.
+A collection of categorized C programs for learning and practicing core concepts like loops, arrays, strings, pointers, and more.
 
----
+## 📁 Folder Overview
 
-## 📁 Folder Structure
+- `basic/` – Basic C programs and syntax
+- `loops/` – Looping constructs (`for`, `while`, `do-while`)
+- `conditions/` – Programs using `if`, `else`, `switch`
+- `arrays/` – 1D/2D array operations
+- `string/` – String manipulation in C
+- `pointer/` – Pointer concepts and programs
+- `pattern/` – Pattern printing using loops
 
-| Folder Name   | Description |
-|---------------|---------------------------------------------------------------------|                                         
-| ------------- | ------------------------------------------------------------------- |
-| `basic/`      | Covers fundamental C concepts like I/O, variables, arithmetic, etc. |
-| `loops/`      | Demonstrates control flow using `for`, `while`, and `do-while`.     |
-| `conditions/` | Uses `if`, `else`, and `switch`—core conditional constructs in C.   |
-| `arrays/`     | C-style array operations, sorting, searching—core data handling.    |
-| `string/`     | Works with character arrays and functions like `strlen`, etc.       |
-| `pointer/`    | Unique to C—covers address manipulation, pointer arithmetic.        |
-| `pattern/`    | Uses loops/logic to draw patterns—very common in C practice sets.   |
-
-
-
+Each folder includes its own README with file descriptions and usage.
