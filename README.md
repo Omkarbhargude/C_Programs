@@ -11,5 +11,5 @@ A collection of categorized C programs for learning and practicing core concepts
 - `string/` – String manipulation in C
 - `pointer/` – Pointer concepts and programs
 - `pattern/` – Pattern printing using loops
-
+- 'Data Structure/' - Impementation of Datastructures using C programming
 Each folder includes its own README with file descriptions and usage.
