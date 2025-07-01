@@ -28,7 +28,7 @@ datastructure/
 
 1. Open terminal inside the folder.
 2. Compile a program:
-   gcc filename.cpp -o output
-   ./output
+   gcc filename.c -o Myexe
+   ./Myexe
 
 
