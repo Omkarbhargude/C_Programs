@@ -16,7 +16,7 @@ datastructure/
 
 
 
-## 🛠️ Tech Stack
+## Language Used:
 
 - **Language:** C
 - **Compiler:** GCC (gcc)
@@ -24,7 +24,7 @@ datastructure/
 
 ---
 
-## 🚀 How to Run the Programs
+##  How to Run the Programs
 
 1. Open terminal inside the folder.
 2. Compile a program:
